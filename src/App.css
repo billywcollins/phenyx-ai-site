@@ -29,7 +29,6 @@ body {
   margin: 0 auto 2rem;
 }
 
-
 @media screen and (max-width:480px) {
   .logo-image {
     transform:rotate(90deg);
@@ -37,6 +36,6 @@ body {
   }
 
   .coming-soon {
-    margin-bottom: 4rem;
+    margin: 0 auto 4rem;
   }
 }
