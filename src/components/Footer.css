@@ -1,0 +1,25 @@
+footer {
+    color: #1c1c19;
+    font-size: .8rem;
+    width: 60vw;
+    margin: 0 auto;
+}
+
+.footer-list {
+display: flex;
+justify-content: space-between;
+list-style: none;
+margin: 0;
+padding: 0;
+}
+
+@media screen and (max-width:480px) {
+    .footer-list {
+        flex-direction: column;
+        justify-content: end;
+    }
+}
+
+.footer-item {
+margin: 0 5%;
+}
