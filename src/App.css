@@ -51,6 +51,13 @@ body {
   .phenyx h1, .studios h1 {
     font-size: 5em;
   }
+  .studios {
+    margin-right: 10%;
+  }
+  
+  .phenyx {
+    margin-left: 10%;
+  }
 }
 
 .coming-soon-div {
